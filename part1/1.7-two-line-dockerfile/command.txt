@@ -1,0 +1,2 @@
+docker build . -t web-server:test
+docker run web-server:test
