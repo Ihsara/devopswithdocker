@@ -1,0 +1,4 @@
+Command: 
+
+	 docker build . -t ubuntu:curler
+ 	 docker run -it ubuntu:curler
