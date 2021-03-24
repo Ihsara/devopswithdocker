@@ -1,0 +1,3 @@
+In host machine: 
+	touch text.log
+	docker run -v "$(pwd)/mockup/text.log:/usr/src/app/text.log" -d -it devopsdockeruh/simple-web-service:alpine
