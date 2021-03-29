@@ -1,0 +1,2 @@
+Git repo: https://github.com/Ihsara/flask-bokeh
+Docker hub: https://hub.docker.com/repository/docker/ihsara/flask-docker/general
